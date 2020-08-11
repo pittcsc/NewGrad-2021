@@ -12,7 +12,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|[Amazon](https://www.amazon.jobs/en/jobs/935353/software-development-engineer-amazon-robotics-2020-grad?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid)| Various | Amazon Robotics |
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
 |[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076429002)| Westport, CT | Investment Logic Engineer |
@@ -29,7 +28,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer | 
 |[Asana](https://boards.greenhouse.io/asana/jobs/2191025) | San Francisco| Software Engineer |
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
-|[Nuro](https://nuro.ai/careersitem?gh_jid=2257033)| Mtn View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
 |[Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1847809)| Chicago | |
@@ -38,4 +36,18 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Kohl's](https://careers.kohls.com/corporate/job/R123005/Software-Engineer)| Milpitas, CA | Software Engineer - E-Commerce |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago ||
 |[Citadel](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)| Chicago | Software Engineering Rotation Program – Full Time |
-|[Wish](https://jobs.smartrecruiters.com/Wish/743999716273717)| San Francisco, CA |  Software Engineer, Data |
+|[Citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)| Various | |
+|[Robinhood](https://boards.greenhouse.io/robinhood/jobs/2214430) | Menlo Park | More [here](https://boards.greenhouse.io/robinhood/jobs/2214430) |
+|[HubSpot](https://boards.greenhouse.io/embed/job_app?token=844714&gh_src=PittCSC) | Cambridge, MA | |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811959002) | Pittsburgh, PA | |
+|[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
+|[Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=new%20grad)|Seattle, Provo| Software Engineer, Software Test Engineer|
+|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Engineer_3001551)| San Diego, CA | Engineer |
+|[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime)|Various|Software Engineer|
+|[Amazon](https://www.amazon.jobs/en/jobs/1204412/software-development-engineer-2021-united-states)|Various|Software Engineer|
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB)| |Analyst Program|
+|[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2021/1786/17009507)|Various|Technology Development Program Associate|
+|[Scale AI](https://jobs.lever.co/scaleai/41e05b90-7e65-4dac-8676-50be9c1afc27)| San Francisco, CA |New Grad Software Engineer|
+|[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
+|[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
