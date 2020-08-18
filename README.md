@@ -21,11 +21,9 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4200121002?foo=bar)| Chicago, Illinois | Software Engineer |
-|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1777652)| San Mateo, CA | |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
 |[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4465259002?gh_src=3202a8272)| San Francisco | |
-|[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer | 
-|[Asana](https://boards.greenhouse.io/asana/jobs/2191025) | San Francisco| Software Engineer |
+|[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer |
 |[Neeva](https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)| Mtn. View, CA | |
 |[Two Sigma](https://careers.twosigma.com/careers/RegisterMethod?jobId=714&source=PittCSC)| NY | |
 |[DRW](https://drw.com/careers/job/1352350)| Chicago, Austin | |
@@ -40,7 +38,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999716337373) | San Francisco, CA, | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1295249)|Various| |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=new%20grad)|Seattle, Provo| Software Engineer, Software Test Engineer|
-|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Engineer_3001551)| San Diego, CA | Engineer |
+|[Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/Software-Engineer_3001699)| San Diego, CA | Engineer |
 |[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime)|Various|Software Engineer|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204412/software-development-engineer-2021-united-states)|Various|Software Engineer|
 |[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/1/opp/4478-Analyst-Program-Americas/en-GB)| |Analyst Program|
@@ -49,4 +47,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)| San Francisco, New York, Dublin, Singapore, Seattle|New Grad Software Engineer|
 |[Palantir](https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0)| Palo Alto, New York, Seattle, Washington|Software Engineer, New Grad|
 |[Figma](https://jobs.lever.co/figma/31f60538-9c04-4dd3-821d-7980370f9be3)| San Francisco, CA |Software Engineer, New Grad (2021)|
-|[FedEx Services](https://careers.fedex.com/services/jobs/POSTING-3-247063?lang=en-US)| Pennsylvania |Full Stack Developer I|
+|[Microsoft](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer)| Various |Full Time Opportunities for Students and Recent Graduates - Software Engineer|
+|[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641)| Various |Software Engineer - On Campus Recruiting|
