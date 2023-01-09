@@ -11,7 +11,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 
 **Contribute by making a pull request or using [this Google Form](https://bit.ly/3cUV89H)!**
 
-### The List
+## The List
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
