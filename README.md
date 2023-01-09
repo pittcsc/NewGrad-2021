@@ -1,5 +1,5 @@
 # This Repo is no longer maintained
-For a 2022 repository check out [our fork here](https://github.com/coderQuad/New-Grad-Positions-2022)
+For a 2023 repository check out [our fork here](https://github.com/owini/New-Grad-Positions-2023)
 
 ## 2021 New Grad Applications
 
